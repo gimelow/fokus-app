@@ -4,4 +4,4 @@ Projeto desenvolvido durante o curso "JavaScript: manipulando elementos no DOM" 
 - 👩🏻‍💻 Criar eventos de interação com a pessoa usuária
 - ☕ Utilizar objetos utilitários do JavaScript
 
-Após os conhecimentos obtidos no curso, realizei algumas alterações no projeto para treinar minhas habilidades e hospedei em ...?
+Após os conhecimentos obtidos no curso, realizei algumas alterações no projeto para treinar minhas habilidades e hospedei em https://gimelow.github.io/fokus-app/
